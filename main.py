@@ -11,4 +11,10 @@ def div(a,b):
     resultado = a/b;
     print(f'a divisão dos valores é {resultado}');
 
-div(a,b);
+#div(a,b);
+
+def mult(a,b):
+    resultado = a*b
+    print(f'a multiplicação dos valores é {resultado}');
+
+mult(a,b);
