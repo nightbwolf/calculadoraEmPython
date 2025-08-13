@@ -14,7 +14,13 @@ def div(a,b):
 #div(a,b);
 
 def mult(a,b):
-    resultado = a*b
+    resultado = a*b;
     print(f'a multiplicação dos valores é {resultado}');
 
-mult(a,b);
+#mult(a,b);
+
+def subt(a,b):
+    resultado = a-b;
+    print(f'a subtração dos valores é {resultado}');
+
+subt(a,b);
