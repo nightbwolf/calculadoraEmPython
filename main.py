@@ -21,6 +21,8 @@ def mult(a,b):
 def subt(a,b):
     resultado = a-b;
     print(f'a subtração dos valores é {resultado}');
+
+#media
 def media(a,b,c,d):
     resultado = (a+b+c+d)/4
     print(f'o Resultado da média dos valores é {resultado}');
